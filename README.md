@@ -23,6 +23,22 @@ Satış performansını yıllık, ay bazlı ve yıllar arası karşılaştırmal
   - KPI’lar için Conditional Formatting
   - Temiz ve executive-friendly layout
 
+## Amacı
+
+- Power BI’da **star schema** ile veri modelleme yeteneğini göstermek
+- **Time Intelligence hesaplamalarını** trend analizi için uygulamak
+- Yönetici kararlarını destekleyecek bir **dashboard** oluşturmak
+
+## Öne Çıkan Beceriler
+
+- DAX (TOTALYTD, TOTALMTD, DATEADD, SAMEPERIODLASTYEAR vb. Time Intelligence fonksiyonları)
+- Power BI’da veri modelleme ve ilişkiler
+- Gelişmiş görselleştirme teknikleri
+- Rolling average ve trend analizi
+
+
+
+
 
 # Time Intelligence Sales Dashboard (Power BI)
 
@@ -45,7 +61,7 @@ It focuses on analyzing sales performance over time, including Year-to-Date (YTD
   - KPI Cards for quick insights
   - Line Charts showing total sales, rolling 12-month sales, and moving averages
   - Slicers for dynamic year and month selection
-- **Professional Design**:
+  - **Professional Design**:
   - Conditional formatting for KPIs
   - Clean, executive-friendly layout
 
@@ -61,34 +77,3 @@ It focuses on analyzing sales performance over time, including Year-to-Date (YTD
 - Data modeling and relationships in Power BI
 - Advanced visualization techniques
 - Rolling averages and trend analysis
-
-## Screenshots
-
-_Add screenshots of your dashboard here (KPI Cards, Line Charts, Slicers)_
-
-## Notes
-
-- Data is anonymized and generated for demonstration purposes.
-- Perfect project for showcasing **junior or intermediate Power BI skills** on a CV.
-
-## Amacı
-
-- Power BI’da **star schema** ile veri modelleme yeteneğini göstermek
-- **Time Intelligence hesaplamalarını** trend analizi için uygulamak
-- Yönetici kararlarını destekleyecek bir **dashboard** oluşturmak
-
-## Öne Çıkan Beceriler
-
-- DAX (TOTALYTD, TOTALMTD, DATEADD, SAMEPERIODLASTYEAR vb. Time Intelligence fonksiyonları)
-- Power BI’da veri modelleme ve ilişkiler
-- Gelişmiş görselleştirme teknikleri
-- Rolling average ve trend analizi
-
-## Ekran Görüntüleri
-
-_Dashboard’un KPI kartları, line chart ve slicer görüntülerini ekle_
-
-## Notlar
-
-- Veri anonimleştirilmiş ve eğitim amaçlı üretilmiştir.
-- Junior veya intermediate Power BI becerilerini CV’de göstermek için ideal proje.
