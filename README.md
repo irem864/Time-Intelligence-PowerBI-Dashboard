@@ -15,7 +15,9 @@ Satış performansını yıllık, ay bazlı ve yıllar arası karşılaştırmal
 
 ## Data Model
 ![Data Model](data_model.png)
+
 -Star schema ile veri modelleme
+
 -Sales tablosu ile Date Table ilişkisi kurulmuş
 
 
