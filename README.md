@@ -15,9 +15,7 @@ Satış performansını yıllık, ay bazlı ve yıllar arası karşılaştırmal
 
 ## Data Model
 ![Data Model](data_model.png)
-
 -Star schema ile veri modelleme
-
 -Sales tablosu ile Date Table ilişkisi kurulmuş
 
 
@@ -68,7 +66,7 @@ CALCULATE(
 YTD Growth % = DIVIDE([YTD Sales] - [Last Year YTD], [Last Year YTD])
 
 
-Görselleştirmeler
+## Görselleştirmeler
 
 -KPI Kartları: Toplam Satış, YTD Satış, 3 Aylık Hareketli Ortalama, YTD Büyüme %
 
@@ -84,7 +82,7 @@ Görselleştirmeler
 
 -Slicers / Filtreler: Year, Month Name
 
-Amacı
+## Amacı
 
 -Power BI’da star schema ile veri modelleme göstermek
 
@@ -92,7 +90,7 @@ Amacı
 
 -Yönetici kararlarını destekleyecek dashboard oluşturmak
 
-Öne Çıkan Beceriler
+## Öne Çıkan Beceriler
 
 -DAX (TOTALYTD, TOTALMTD, DATEADD, SAMEPERIODLASTYEAR, Rolling & Moving Averages)
 
@@ -103,7 +101,7 @@ Amacı
 -Zaman bazlı analiz ve trend inceleme
 
 
-Elde Edilen İçgörüler
+## Elde Edilen İçgörüler
 
 -Bölgesel Satış Performansı: Bazı bölgeler toplam satışta diğerlerinden daha yüksek performans göstermektedir.
 
@@ -190,7 +188,7 @@ CALCULATE(
 ## YTD Growth %
 YTD Growth % = DIVIDE([YTD Sales] - [Last Year YTD], [Last Year YTD])
 
-Visualizations
+## Visualizations
 
 -KPI Cards: Total Sales, YTD Sales, 3-Month Moving Avg, YTD Growth %
 
@@ -206,7 +204,7 @@ YearMonth → 3-Month Moving Average
 
 -Slicers: Year, Month Name
 
-Purpose
+## Purpose
 
 -Demonstrates ability to model data in Power BI with star schema
 
@@ -214,7 +212,7 @@ Purpose
 
 -Creates an executive-friendly dashboard
 
-Skills Highlighted
+## Skills Highlighted
 
 -DAX (TOTALYTD, TOTALMTD, DATEADD, SAMEPERIODLASTYEAR, Rolling & Moving Averages)
 
@@ -225,7 +223,7 @@ Skills Highlighted
 -Rolling averages and trend analysis
 
 
-Key Insights
+## Key Insights
 
 -Regional Sales Performance: Certain regions outperform others in total sales.
 
